@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando de **Suporte Técnico em TI**
 
-- 🌱 No momento estou estudando **HTML e CSS**
+- 🌱 No momento estudando **HTML e CSS**
 
 - 📫 Meu email **dev.ricardooliveira@gmail.com**
 <br><br><br><br><br><br><br>
