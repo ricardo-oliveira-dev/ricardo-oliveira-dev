@@ -8,13 +8,13 @@
 - 🌱 No momento estou estudando **HTML e CSS**
 
 - 📫 Meu email **dev.ricardooliveira@gmail.com**
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ##
 
 <div>
-  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=ricardo-oliveira-dev&show_icons=true&theme=github_dark">
-  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-oliveira-dev&layout=compact&theme=github_dark">
+  <img width="300px" src="https://github-readme-stats.vercel.app/api?username=ricardo-oliveira-dev&show_icons=true&theme=github_dark">
+  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-oliveira-dev&layout=compact&theme=github_dark">
 </div>
 
 
