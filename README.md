@@ -7,7 +7,7 @@
 
 - 🌱 No momento estudando **HTML e CSS**
 
-- 📫 Meu email **dev.ricardooliveira@gmail.com**
+- 📫 Meu email: **dev.ricardooliveira@gmail.com**
 <br><br><br><br><br><br><br>
 
 ##
