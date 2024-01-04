@@ -1,5 +1,5 @@
 <h1 align="center">Oi👋, Me chamo Ricardo Oliveira</h1>
-<h3 align="center">Desenvolvedor Front-End & UI Design</h3>
+<h3 align="center">Estudando para ser um Desenvolvedor</h3>
 
 <img align="right" width="400px" src="https://www.iroidtechnologies.com/static/home/images/oew_rrybb.gif">
 
